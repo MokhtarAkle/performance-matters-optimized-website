@@ -16,13 +16,13 @@
 Tijdens de huidige sprint moesten we in groepjes verder werken aan een user story. Mokhtar en Fatih hebben samen tijdens deze sprint een filter en sorteer functie opgezet en tegelijkertijd de living style guide bijgewerkt.
 
 ## Kenmerken
-Node
+### Node
 Node is een onderliggend framework dat er voor zorgt dat we server side code kunnen schrijven en gebruik kunnen maken van verschillende modules zoals Express en EJS.
 
-Express
+### Express
 We gebruiken Express als framework voor onze projecten. Met express kunnen we verschillende routes aanmaken waarin we content kunnen aanbieden als webpaginas. Ook kunnen we gebruik maken van een view engine door middel van Express om de opmaak van de HTML makkelijker te maken. Verder kan je statische bestanden aanbieden door een statische route aan te geven via express. Door middel van de statische mappen
 
-EJS
+### EJS
 De view engine die we gebruiken is EJS. Hiermee kan je makkelijk templates van HTML maken terwijl je direct in combinatie hiermee JS kan gebruiken.
 
 ![image](https://github.com/MokhtarAkle/performance-matters-optimized-website/assets/112856020/6098d815-a7d0-4939-9945-6e76e2030dc8)
